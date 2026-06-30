@@ -1,0 +1,4 @@
+Name: Albin
+Mark1: 5
+Mark2: 5
+Total: 10
